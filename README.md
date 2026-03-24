@@ -30,7 +30,7 @@
 > whoami
   ╰─ Bug bounty hunter & developer
 > languages
-  ╰─ Python · JavaScript · Assembly · Java
+  ╰─ Python · Assembly · Java
 > currently
   ╰─ Finding bugs, writing code, breaking things (ethically)
 ```
@@ -42,7 +42,6 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=00FF41)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![Assembly](https://img.shields.io/badge/Assembly-black?style=flat-square&logo=assemblyscript&logoColor=00FF41)
 ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk&logoColor=FF6200)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=00FF41)
