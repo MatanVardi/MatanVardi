@@ -1,37 +1,25 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=240&section=header&text=MatanV&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Ethical%20Hacker%20%7C%20Cybersecurity&descAlignY=55&descAlign=center"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=MatanVardi&theme=ocean&no-bg=true&column=7" alt="Trophies" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=14&duration=100&pause=50&color=00FF00&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=150&lines=01001000+01100001+01100011+01101011+01101001+01101110+01100111+00100000+01110100+01101000+01100101+00100000+01110000+01101100+01100001+01101110+01100101+01110100;01000001+01001001+00100000+01110000+01101111+01110111+01100101+01110010+01100101+01100100+00100000+01110011+01100101+01100011+01110101+01110010+01101001+01110100+01111001;01010111+01100101+01101100+01100011+01101111+01101101+01100101+00100000+01110100+01101111+00100000+01110100+01101000+01100101+00100000+01100110+01110101+01110100+01110101+01110010+01100101" alt="Matrix Code" />
 </div>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
 
-<img align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="160">
+## 🌐 Socials:
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matan-vardi)
-![HackerOne](https://img.shields.io/badge/Bug%20Bounty-HackerOne-blue?logo=hackerone&logoColor=white)
+![Hacker one](https://img.shields.io/badge/Bug%20Bounty-HackerOne-blue)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-%23FF6200?logo=bugcrowd&logoColor=white)
 
-<br clear="both">
-
-# 📊 GitHub Stats
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MatanVardi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" /><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MatanVardi&theme=tokyonight&hide_border=false" /><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatanVardi&theme=tokyonight&hide_border=false&layout=compact" />
-
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MatanVardi&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MatanVardi&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatanVardi&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## ✍️ Dev Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight)
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark)
 
 ---
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=MatanVardi&icon=2&color=0000FF" />
-</p>
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MatanVardi&icon=2&color=9" alt="Profile Views" />
+  </a>
+</div>
