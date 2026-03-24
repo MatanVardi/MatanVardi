@@ -73,8 +73,6 @@
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=MatanVardi&icon=2&color=9)
-
 `[ online ]` · `[ bug bounty: active ]` · `[ shell: /bin/bash ]`
 
 </div>
