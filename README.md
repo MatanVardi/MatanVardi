@@ -1,13 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Matan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f72,100:2e86c1&height=250&section=header&text=Matan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="hacking gif"/>
-</p>
-
-<p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="hacking gif"](https://www.gifcen.com/hacker-gif-33/)/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" width="380" alt="hacking gif"/>
 </p>
 
 <p align="center">
@@ -40,11 +36,26 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
+- Security & Networking: &nbsp;
+  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burpsuite&logoColor=FF6633)
+  ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark&logoColor=1679A7)
+  ![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap&logoColor=white)
+  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux&logoColor=557C94)
+  ![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit&logoColor=white)
+
 ***
 
+**⚙️ &nbsp;GitHub Analytics**
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MatanV&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MatanV stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatanV&theme=dark&hide_border=true&layout=compact"/></td>
+  </tr>
+</table>
 
 ***
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b4f72,100:2e86c1&height=120&section=footer"/>
 </p>
