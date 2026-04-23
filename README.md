@@ -1,45 +1,54 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Matan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=breaker+%F0%9F%94%93;learner+%F0%9F%93%96;repeat." alt="Typing SVG" />
-
-</div>
-
----
-
-### 🛠️ Tools I Use
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logo=assemblyscript&logoColor=white" height="30"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=250&section=header&text=Matan&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="hacking gif"/>
+</p>
 
-### 📊 GitHub Stats
+<p align="center">
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br/>
+  <b>— Martin Fowler</b>
+</p>
 
-<div align="center">
+***
 
-![](https://github-readme-stats.vercel.app/api?username=MatanV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MatanV&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MatanV&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**🛠 &nbsp;Tech Stack**
 
-</div>
+- Languages: &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007ACC)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assemblyscript&logoColor=white)
 
----
+- Web: &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
-</div>
+- Tools & Platforms: &nbsp;
+  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+- Databases: &nbsp;
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+***
+
+**⚙️ &nbsp;GitHub Analytics**
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MatanV&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MatanV stats"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatanV&theme=dark&hide_border=true&layout=compact"/></td>
+  </tr>
+</table>
+
+***
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+</p>
