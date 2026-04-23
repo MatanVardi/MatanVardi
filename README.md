@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2023/09/hacker-gif.gif" width="380" alt="hacking gif"/>
+  <img src="https://images.steamusercontent.com/ugc/939432316730598692/998DF3BE9614B453D17E9776752BB36BCE2C8970/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="420" alt="hacker"/>
 </p>
 
 <p align="center">
@@ -36,23 +36,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 
-- Security & Networking: &nbsp;
-  ![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-333333?style=flat&logo=burpsuite&logoColor=FF6633)
-  ![Wireshark](https://img.shields.io/badge/-Wireshark-333333?style=flat&logo=wireshark&logoColor=1679A7)
-  ![Nmap](https://img.shields.io/badge/-Nmap-333333?style=flat&logo=nmap&logoColor=white)
-  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-333333?style=flat&logo=kalilinux&logoColor=557C94)
-  ![Metasploit](https://img.shields.io/badge/-Metasploit-333333?style=flat&logo=metasploit&logoColor=white)
-
-***
-
-**⚙️ &nbsp;GitHub Analytics**
-
-<table style="width:100%">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MatanV&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MatanV stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatanV&theme=dark&hide_border=true&layout=compact"/></td>
-  </tr>
-</table>
+- Web Hacking & Networking
 
 ***
 
