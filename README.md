@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="hacking gif"](https://www.gifcen.com/hacker-gif-33/)/>
+</p>
+
+<p align="center">
   <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br/>
   <b>— Martin Fowler</b>
 </p>
@@ -38,14 +42,6 @@
 
 ***
 
-**⚙️ &nbsp;GitHub Analytics**
-
-<table style="width:100%">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MatanV&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MatanV stats"/></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatanV&theme=dark&hide_border=true&layout=compact"/></td>
-  </tr>
-</table>
 
 ***
 
