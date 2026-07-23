@@ -20,11 +20,14 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007ACC)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
   ![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assemblyscript&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
 
 - Web: &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
 
 - Tools & Platforms: &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
