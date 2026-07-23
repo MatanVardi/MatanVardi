@@ -26,8 +26,10 @@
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
   ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss&logoColor=38BDF8)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react&logoColor=61DAFB)
   ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
+  ![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-333333?style=flat&logo=shadcnui&logoColor=white)
 
 - Tools & Platforms: &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
